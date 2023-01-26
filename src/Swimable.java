@@ -1,3 +1,3 @@
 public interface Swimable {
-    void swim();
+//    void swim();
 }
